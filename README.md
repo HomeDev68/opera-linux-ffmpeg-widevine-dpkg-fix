@@ -50,3 +50,7 @@ sudo ./uninstall.sh
 sudo dpkg --configure -a # or
 sudo apt update
 ```
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+
