@@ -3,7 +3,7 @@ Opera Linux ffmpeg Widevine Dpkg Fix
 
 # Fixing Opera Dpkg Error
 
-If you've applied a fix for HTML5 video playback on Opera, it's possible you used the [fix-opera-linux-ffmpeg-widevine](https://github.com/Ld-Hagen/fix-opera-linux-ffmpeg-widevine) script. This guide will help you resolve the following Dpkg error that may occur:
+If you've applied a fix for HTML5 video playback on Opera, it's possible you used the [fix-opera-linux-ffmpeg-widevine](https://github.com/Ld-Hagen/fix-opera-linux-ffmpeg-widevine) script. This guide will help you resolve the following Dpkg error that may occur after uninstalling Opera:
 
 ### Error:
 ```bash
